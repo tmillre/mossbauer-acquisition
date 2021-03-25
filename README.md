@@ -1,7 +1,7 @@
 # mossbauer-acquisition
 Cheap microcontroller-based replacement for acquisition card for mossbauer spectroscopy.
 
-Originally written and built to be a cheap replacement (~$5) for expensive (~$5000) acquisition cards inside of 30 year old (486's?) computers. 
+Originally written and built to be a cheap replacement ($5) for expensive ($5000) acquisition cards inside of 30 year old (486's?) computers. 
 
 Python Requirements:
 Serial
